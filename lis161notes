@@ -1,0 +1,44 @@
+Assembly > Programming > Scripting > NLP (Natural Language Processing)
+
+Programming is compiled and is still a language of the computer
+Scripting is using functions that are comprehendable by the human brain (ex document.write ; function()). Scripting language uses interpreter to implement codes. Scripting still uses compilers.
+Problems faced by scripting: Instructions mo and instruction of the computer as a tool
+Network devices/language uses protocol.
+
+HTML
+
+Element -> attribute = value <body align="center">
+Abstraction 
+Integrated development environment <body .> the dot shows all possible attributes
+Reuse of codes - You just need to define an object and just call the other objects to it
+
+CSS 
+External
+Internal/Embedded -> Style characteristics are embedded in the HEAD section of the webpage. Perhaps best used when a single page requires a unique style sheet.
+In-Line
+Embedded
+
+Inserting a CSS
+Internal/Embedded sheet
+<head>
+<style type="text/css">
+hr {color: navy}
+body {margin-left: 20px;}
+</style>
+</head>
+
+Internal/Embedded sheet for older
+<head>
+<style type="text/css">
+<!-- hr {color: navy}
+body {margin-left: 20px;} -->
+</style>
+</head>
+
+Inline
+
+<p> style="color: yellow; font-family: verdana">
+This is a paragraph
+</p>
+
+External
